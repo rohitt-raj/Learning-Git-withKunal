@@ -4,3 +4,4 @@ It will show the marks in a visual manner.
 
 I am working on this new feature of plotting the marks.
 
+I am thinking of scatter plots.
